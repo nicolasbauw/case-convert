@@ -1,0 +1,14 @@
+[package]
+name = "case_convert"
+version = "0.1.0"
+edition = "2021"
+description = "A case conversion library for the String type"
+keywords = ["case", "conversion", "string"]
+categories = ["date-and-time"]
+license = "MIT"
+repository = "https://github.com/nicolasbauw/world-time-api"
+readme = "README.md"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
