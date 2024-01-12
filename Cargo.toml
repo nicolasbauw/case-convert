@@ -2,11 +2,10 @@
 name = "case_convert"
 version = "0.1.0"
 edition = "2021"
-description = "A case conversion library for the String type"
+description = "git remote add origin git@github.com:nicolasbauw/case-convert.git"
 keywords = ["case", "conversion", "string"]
-categories = ["date-and-time"]
 license = "MIT"
-repository = "https://github.com/nicolasbauw/world-time-api"
+repository = "https://github.com:nicolasbauw/case-convert"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
