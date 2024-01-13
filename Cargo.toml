@@ -5,7 +5,7 @@ edition = "2021"
 description = "Converts the first letter of a Rust String to uppercase."
 keywords = ["case", "conversion", "string"]
 license = "MIT"
-repository = "https://github.com:nicolasbauw/case-convert"
+repository = "https://github.com/nicolasbauw/case-convert"
 readme = "README.md"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
