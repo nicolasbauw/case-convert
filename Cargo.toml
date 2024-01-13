@@ -2,7 +2,7 @@
 name = "case_convert"
 version = "0.1.0"
 edition = "2021"
-description = "git remote add origin git@github.com:nicolasbauw/case-convert.git"
+description = "Converts the first letter of a Rust String to uppercase."
 keywords = ["case", "conversion", "string"]
 license = "MIT"
 repository = "https://github.com:nicolasbauw/case-convert"
